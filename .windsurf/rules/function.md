@@ -1,0 +1,5 @@
+---
+trigger: always_on
+---
+
+whenever i tell you  to change up a UI componenet or someething in the boilerplate ALWAYS REMEMBER THIS: NEVER AND DO NOT CHANGE UP THE FUNCTIONALITY OF WHATEVER YOU ARE WORKING WITH UNLIESS I TELL YOU SO. so if something has a link or function i just want you to change the UI of it while still having it remain its functionality. There will be some moments where i May need you to remove or change or add functionality, But I WILL TELL YOU if we are going to do that or not.  NEVER AND DO NOT CHANGE UP THE FUNCTIONALITY OF WHATEVER YOU ARE WORKING WITH UNLIESS I TELL YOU SO. so if something has a link of function i just want you to change the UI of it while still having it remain its functionality.  So here are the rules: if you are chaning up a UI component, then you have to keep the functionality. If you are REPLACING a UI component, meaning that you remove it and then remake it, then you still keep the functionality. But, if you are just removing a UI compenent, then you may also REMOVE the functionality along with it.

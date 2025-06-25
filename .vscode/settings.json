@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.fixAll": "always"
+  },
+  "eslint.useFlatConfig": true,
+  "search.exclude": {
+    "**/.next": true
+  },
+  "typescript.preferences.autoImportSpecifierExcludeRegexes": [
+    "@radix-ui",
+    "next/dist",
+    "next/document",
+    "next/head",
+    "next/router"
+  ]
+}
